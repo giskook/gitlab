@@ -1,7 +1,7 @@
 package linkedlist
 
 import (
-	"gitlib/pkg/rangelist"
+	"gitlab/pkg/rangelist"
 )
 
 func (l *linkedList) init(r rangelist.Range) {

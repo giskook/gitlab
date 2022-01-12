@@ -1,6 +1,6 @@
 package rangelist
 
-import "gitlib/pkg/rangelist/base"
+import "gitlab/pkg/rangelist/base"
 
 type Range [2]int
 

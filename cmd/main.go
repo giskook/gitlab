@@ -1,7 +1,7 @@
 package main
 
 import (
-	"gitlib/pkg/rangelist/impl/linkedlist"
+	"gitlab/pkg/rangelist/impl/linkedlist"
 )
 
 func main() {

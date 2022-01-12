@@ -2,8 +2,8 @@ package linkedlist
 
 import (
 	"fmt"
-	"gitlib/pkg/rangelist"
-	"gitlib/pkg/rangelist/base"
+	"gitlab/pkg/rangelist"
+	"gitlab/pkg/rangelist/base"
 	"sync"
 )
 

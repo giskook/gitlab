@@ -1,8 +1,8 @@
 package linkedlist
 
 import (
-	"gitlib/pkg/rangelist"
-	"gitlib/pkg/rangelist/base"
+	"gitlab/pkg/rangelist"
+	"gitlab/pkg/rangelist/base"
 	"sort"
 )
 
